@@ -1,0 +1,65 @@
+{
+  "first": "Senith",
+  "last": "Anuhas",
+  "initials": "SA",
+  "tagline1": "Style that speaks.",
+  "tagline2": "Moments worth sharing.",
+  "cta": "Follow me",
+  "availLabel": "Available for",
+  "availLine1": "Collaborations",
+  "availLine2": "& Projects",
+  "followNote": "Find me on every platform",
+  "cardTitle": "@senith_anuhas",
+  "cardSub": "Say hi on Instagram or Threads",
+  "aboutLabel": "About",
+  "aboutLead": "I'm Senith Anuhas. I share my style, my moments and my stories online.",
+  "aboutSub": "Follow along on any platform below. For collaborations and projects, send me a message on Instagram or Threads and I will get back to you.",
+  "linksLabel": "Find me online",
+  "linksTitle": "Socials",
+  "footerLeft": "\u00a9 2026 Senith Anuhas",
+  "footerRight": "For collaborations, message me on Instagram or Threads.",
+  "ticker": [
+    "Senith Anuhas",
+    "Style",
+    "Moments",
+    "Stories"
+  ],
+  "intro": {
+    "on": true,
+    "tag": "Portfolio 2026"
+  },
+  "portrait": "portrait.webp",
+  "links": [
+    {
+      "icon": "ig",
+      "label": "Instagram",
+      "handle": "@senith_anuhas",
+      "url": "https://www.instagram.com/senith_anuhas"
+    },
+    {
+      "icon": "fb",
+      "label": "Facebook",
+      "handle": "Senith Anuhas",
+      "url": "https://www.facebook.com/share/1HgsX69aR7/?mibextid=wwXIfr"
+    },
+    {
+      "icon": "th",
+      "label": "Threads",
+      "handle": "@senith_anuhas",
+      "url": "https://www.threads.com/@senith_anuhas"
+    },
+    {
+      "icon": "tt",
+      "label": "TikTok",
+      "handle": "@senu3936",
+      "url": "https://www.tiktok.com/@senu3936"
+    },
+    {
+      "icon": "wa",
+      "label": "WhatsApp",
+      "handle": "Chat with me",
+      "url": "https://wa.me/qr/Z7CCHDSUJOE5O1"
+    }
+  ],
+  "blocks": []
+}
